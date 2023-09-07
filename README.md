@@ -53,6 +53,6 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href= "www.linkedin.com/in/cesarjuliusjimenez">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/cesarjuliusjimenez">
+ <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
