@@ -24,7 +24,7 @@
 ## Education 
 <p align="middle">
 <pre>
- New Era University                                        BS Computer Science                                      2021 - Present 
+ New Era University                                   BS Computer Science                                2021 - Present 
 </pre>
 </p>
 
