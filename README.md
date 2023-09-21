@@ -6,24 +6,23 @@
 
 <!-- Languanges -->
 ## Language & Tools
-
-<p>
+<ul>
   <li> Java </li>
   <li> HTML / CSS </li>
   <li> MySQL </li>
   <li> IntelliJ </li>
   <li> Visual Studio Code </li>  
-</p>
+</ul>
 
 <!-- Certificates -->
 ## Certificates
 <ul>
-  <li><a href="https://courses.cognitiveclass.ai/certificates/5b784c8931304ad3a0f74a630b191b48">SQL & Relational Database 101</a></li>
-  <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=39C1FB3A127D661C565496F9472E99730F796B68696BD30D044C39E4697D737E">Oracle Cloud Infrastructure 2022</a></li>
-  <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8083721A3213730841BB443D2850C36C2DAFA0A05833F6BAB05B97FD37D86387">Oracle Cloud Data Management 2022</a></li>
-  <li><a href="https://simpli-web.app.link/e/VGIGCe5VTCb">Business Analytics w/ Excel</a></li>
+<li><a href="https://courses.cognitiveclass.ai/certificates/5b784c8931304ad3a0f74a630b191b48">SQL & Relational Database 101</a></li>
+<li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=39C1FB3A127D661C565496F9472E99730F796B68696BD30D044C39E4697D737E">Oracle Cloud Infrastructure 2022</a></li>
+<li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8083721A3213730841BB443D2850C36C2DAFA0A05833F6BAB05B97FD37D86387">Oracle Cloud Data Management 2022</a></li>
+<li><a href="https://simpli-web.app.link/e/VGIGCe5VTCb">Business Analytics w/ Excel</a></li>
 </ul>
-
+  
 <!-- Education -->
 ## Education
 <p align="middle">
