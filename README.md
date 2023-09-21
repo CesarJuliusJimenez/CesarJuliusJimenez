@@ -1,15 +1,12 @@
 <!-- Introduction -->
-<h2>  
-  > Hello There! This is Cesar,
-</h2>
+##  > Hello There! This is Cesar,
 
 <!-- About Me -->
 <font size="7"> I am a 3rd year college student currently studying Computer Science and an aspiring Software Developer. Interested in technology and still exploring on the things of what i'm capable at. </font>
 
 <!-- Languanges -->
-<h2>
-  Language & Tools
-</h2>
+## Language & Tools
+
 <p>
   <li> Java </li>
   <li> HTML / CSS </li>
@@ -19,7 +16,7 @@
 </p>
 
 <!-- Certificates -->
-<h2>Certificates</h2>
+## Certificates
 <ul>
   <li><a href="https://courses.cognitiveclass.ai/certificates/5b784c8931304ad3a0f74a630b191b48">SQL & Relational Database 101</a></li>
   <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=39C1FB3A127D661C565496F9472E99730F796B68696BD30D044C39E4697D737E">Oracle Cloud Infrastructure 2022</a></li>
