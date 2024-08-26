@@ -60,6 +60,11 @@ October 06, 2023
  Oracle<br>
  November 22, 2022
  <br><br>
+
+<li><a href="https://drive.google.com/file/d/1mn1ptDWzEIz5nKMaSmR9q_aG57D3C6uh/view?usp=sharing">Senior Programming Assistance Integration (SENPAI) Program Day 1: Fundamentals of Programming</a></li>
+SENPAI Program<br>
+November 11, 2022
+ <br><br>
  
 <li><a href="https://courses.cognitiveclass.ai/certificates/5b784c8931304ad3a0f74a630b191b48">SQL & Relational Database 101</a></li>
  Cognitive Class<br>
