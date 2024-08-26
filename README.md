@@ -5,12 +5,12 @@
 <font size="7"> I am a third-year college student studying computer science at New Era University. I'm interested in technology and am still exploring my skills and expertise. </font>
 
 <!-- Contact -->
-## Contact
+## Contact [📞]
 Email: jimenezcesarjuliusd@gmail.com <br>
 Contact Number: (63+)995-096-9092
 
 <!-- Education -->
-## Education
+## Education [👨‍🎓] 
 <p align="middle">
 <pre>
  College                                              BS Computer Science (NEU)                                     2021 - Present 
@@ -19,7 +19,7 @@ Contact Number: (63+)995-096-9092
 </p>
 
 <!-- Certificates -->
-## Certificates
+## Certificates [📃] 
 <ul>
 <li><a href="https://www.credly.com/badges/8f9fc109-2f9d-4b4a-9a4f-c6d0d9f7f4d5/public_url">Artificial Intelligence Fundamentals</a></li>
 IBM SkillsBuild <br>
@@ -74,7 +74,13 @@ November 11, 2022
 </ul>
 
 <!-- Tech Achievement -->
-## Tech Achievements
+## Tech Achievements [💻] 
+
+### Web Application
+<ul>
+<li><a href="https://medibotkm.pythonanywhere.com">MediBot</a></li>
+</ul>
+
 ### PowerBI Projects
 <ul>
 <li><a href="https://app.powerbi.com/view?r=eyJrIjoiMmM4MmRiMzktMzJkOC00MjA5LTDNEpUTHQoQUJMHLrErGJyHg89uy71MyuHlMDQ3YWZhLTNjNjItNDUxNi04NjJjLWJhOGU3ZmZmNWNjOCIsImMiOjEwfQ%3D%3D">Soda Report for Year 2022</a></li>
@@ -92,7 +98,7 @@ November 11, 2022
 </ul>
 
 <!-- Skill Set -->
-## Skill Set
+## Skill Set [⚓]
 ### Data Visualization
 <ul>
   <li> PowerBI Desktop </li>
