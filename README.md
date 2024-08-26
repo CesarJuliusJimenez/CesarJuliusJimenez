@@ -111,9 +111,10 @@ November 11, 2022
   <li> Python </li>
 </ul>
 
-### DBMS [📥]
+### Database Management System Tools [📥]
 <ul>
   <li> DB2 </li>
+  <li> MySQL </li>
 </ul>
 
 ### Dev Tools [🔧]
@@ -124,6 +125,7 @@ November 11, 2022
   <li> Visual Studio Code </li>
   <li> Cisco Packet Tracer </li> 
   <li> IntelliJ Idea </li> 
-  <li> Adobe Premiere Pro </li> 
+  <li> Adobe Premiere Pro, Adobe Photoshop</li>
+  <li> Microsoft Excel, Word, & Powerpoint</li> 
 </ul>
 
