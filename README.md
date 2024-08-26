@@ -6,19 +6,15 @@
 
 <!-- Contact -->
 ## Contact
-<a href = "mailto: cesar.jimenez@neu.edu.ph">
-<img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/cesarjuliusjimenez">
- <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+Email: jimenezcesarjuliusd@gmail.com <br>
+Contact Number: (63+)995-096-9092
 
 <!-- Education -->
 ## Education
 <p align="middle">
 <pre>
- New Era University                                   BS Computer Science                                    2021 - Present 
+ New Era University                                  BS Computer Science (College)                                  2021 - Present 
+ New Era University                          Information and Communication Technology (SHS)                           2019 - 2021 
 </pre>
 </p>
 
