@@ -21,25 +21,30 @@ Contact Number: (63+)995-096-9092
 <!-- Certificates -->
 ## Certificates
 <ul>
- Artificial Intelligence Fundamentals
+<li><a href="https://www.credly.com/badges/89972241-f469-4576-98c7-25fefc7da5af/public_url">Artificial Intelligence Fundamentals</a></li>
 IBM SkillsBuild
 June 28, 2024
+<br><br>
 
-Basic Cybersecurity Training and Capture-the-Flag Competition
-NEU Technology Center CICS
+<li><a href="https://drive.google.com/file/d/1ZBl0WU_hTsWx6uaRRIFKk-AZ-_SoFURr/view?usp=sharing">Basic Cybersecurity Training and Capture-the-Flag Competition</a></li>
+NEU Technology Center
 May 15, 2024
+<br><br>
 
-Intro To Programming
+<li><a href="https://drive.google.com/file/d/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp/view?usp=sharing">Intro To Programming</a></li>
 Kaggle
 November 09, 2023
+<br><br>
 
-Introduction to Data Science
+<li><a href="https://www.credly.com/badges/89972241-f469-4576-98c7-25fefc7da5af/public_url">Introduction to Data Science</a></li>
 CISCO
 October 16, 2023
+<br><br>
 
 <li><a href="https://www.credly.com/badges/ca46b6f0-4e8c-46b1-b8af-656cb7d50e58/public_url">Data Analytics Essentials</a></li>
 CISCO
 October 06, 2023
+<br><br>
 
 <li><a href="https://simpli-web.app.link/e/VGIGCe5VTCb">Business Analytics w/ Excel</a></li>
  Simplilearn<br>
