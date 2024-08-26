@@ -13,8 +13,8 @@ Contact Number: (63+)995-096-9092
 ## Education [👨‍🎓] 
 <p align="middle">
 <pre>
- College                                      BS Computer Science (NEU)                                  2021 - Present 
- Senior High School                 Information and Communication Technology (NEU)                         2019 - 2021 
+ College                                         BS Computer Science (NEU)                                  2021 - Present 
+ Senior High School                    Information and Communication Technology (NEU)                         2019 - 2021 
 </pre>
 </p>
 
