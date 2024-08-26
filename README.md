@@ -76,19 +76,19 @@ November 11, 2022
 <!-- Tech Achievement -->
 ## Tech Achievements [💻] 
 
-### Web Application
+### Web Application [🕸]
 <ul>
 <li><a href="https://medibotkm.pythonanywhere.com">MediBot</a></li>
 </ul>
 
-### PowerBI Projects
+### PowerBI Projects [📶]
 <ul>
 <li><a href="https://app.powerbi.com/view?r=eyJrIjoiMmM4MmRiMzktMzJkOC00MjA5LTDNEpUTHQoQUJMHLrErGJyHg89uy71MyuHlMDQ3YWZhLTNjNjItNDUxNi04NjJjLWJhOGU3ZmZmNWNjOCIsImMiOjEwfQ%3D%3D">Soda Report for Year 2022</a></li>
 <li><a href="https://app.powerbi.com/view?r=eyJrIjoiNmNlMWI1ZGUtZDA5ZC00ZGNhLWE3NGEtZDNlYjk3Yjg1M2I2IiwidCI6IjllMDQ3YWZhLTNjNjItNDUxNi04NjJjLWJhOGU3ZmZmNWNjOCIsImMiOjEwfQ%3D%3D">Snack Report using DAX</a></li>
 <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYzcyMDIzYjYtMmZmZC00ZDBkLWI0M2YtMDQ3ZGQ3M2RhNWU2IiwidCI6IjllMDQ3YWZhLTNjNjItNDUxNi04NjJjLWJhOGU3ZmZmNWNjOCIsImMiOjEwfQ%3D%3D">Prof Elec 4 Course</a></li>
 </ul>
 
-### Software Engineer Design Pattern
+### Software Engineer Design Pattern [👩‍💻]
 <ul>
 <li><a href="https://github.com/CesarJuliusJimenez/facadePattern">Facade Pattern</a></li>
 <li><a href="https://github.com/CesarJuliusJimenez/strategyPattern">Strategy Pattern</a></li>
@@ -99,24 +99,24 @@ November 11, 2022
 
 <!-- Skill Set -->
 ## Skill Set [⚓]
-### Data Visualization
+### Data Visualization [📈]
 <ul>
   <li> PowerBI Desktop </li>
   <li> Tableau Public </li>
 </ul>
 
-### Programming Language
+### Programming Language [⌨]
 <ul>
   <li> Java </li>
   <li> Python </li>
 </ul>
 
-### DBMS
+### DBMS [📥]
 <ul>
   <li> DB2 </li>
 </ul>
 
-### Dev Tools
+### Dev Tools [🔧]
 <ul>
   <li> JasperSoft Studio </li>
   <li> Lucidchart </li>
