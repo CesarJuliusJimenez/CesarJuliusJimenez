@@ -21,28 +21,28 @@ Contact Number: (63+)995-096-9092
 <!-- Certificates -->
 ## Certificates
 <ul>
-<li><a href="https://www.credly.com/badges/89972241-f469-4576-98c7-25fefc7da5af/public_url">Artificial Intelligence Fundamentals</a></li>
-IBM SkillsBuild
-June 28, 2024
+<li><a href="https://www.credly.com/badges/8f9fc109-2f9d-4b4a-9a4f-c6d0d9f7f4d5/public_url">Artificial Intelligence Fundamentals</a></li>
+IBM SkillsBuild <br>
+June 28, 2024 
 <br><br>
 
 <li><a href="https://drive.google.com/file/d/1ZBl0WU_hTsWx6uaRRIFKk-AZ-_SoFURr/view?usp=sharing">Basic Cybersecurity Training and Capture-the-Flag Competition</a></li>
-NEU Technology Center
+NEU Technology Center <br>
 May 15, 2024
 <br><br>
 
 <li><a href="https://drive.google.com/file/d/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp/view?usp=sharing">Intro To Programming</a></li>
-Kaggle
+Kaggle <br>
 November 09, 2023
 <br><br>
 
 <li><a href="https://www.credly.com/badges/89972241-f469-4576-98c7-25fefc7da5af/public_url">Introduction to Data Science</a></li>
-CISCO
+CISCO <br>
 October 16, 2023
 <br><br>
 
 <li><a href="https://www.credly.com/badges/ca46b6f0-4e8c-46b1-b8af-656cb7d50e58/public_url">Data Analytics Essentials</a></li>
-CISCO
+CISCO <br>
 October 06, 2023
 <br><br>
 
