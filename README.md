@@ -21,7 +21,26 @@ Contact Number: (63+)995-096-9092
 <!-- Certificates -->
 ## Certificates
 <ul>
- 
+ Artificial Intelligence Fundamentals
+IBM SkillsBuild
+June 28, 2024
+
+Basic Cybersecurity Training and Capture-the-Flag Competition
+NEU Technology Center CICS
+May 15, 2024
+
+Intro To Programming
+Kaggle
+November 09, 2023
+
+Introduction to Data Science
+CISCO
+October 16, 2023
+
+<li><a href="https://www.credly.com/badges/ca46b6f0-4e8c-46b1-b8af-656cb7d50e58/public_url">Data Analytics Essentials</a></li>
+CISCO
+October 06, 2023
+
 <li><a href="https://simpli-web.app.link/e/VGIGCe5VTCb">Business Analytics w/ Excel</a></li>
  Simplilearn<br>
  September 7, 2023
