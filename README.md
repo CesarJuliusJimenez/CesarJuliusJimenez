@@ -113,7 +113,7 @@ November 11, 2022
 
 ### Database Management System Tools [📥]
 <ul>
-  <li> DB2 </li>
+  <li> IBM Database2 </li>
   <li> MySQL </li>
 </ul>
 
