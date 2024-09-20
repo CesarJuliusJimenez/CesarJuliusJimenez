@@ -108,7 +108,7 @@ November 11, 2022
 ### Programming Language [⌨]
 <ul>
   <li> Java </li>
-  <li> Python </li>
+  <li> PHP </li>
 </ul>
 
 ### Database Management System Tools [📥]
