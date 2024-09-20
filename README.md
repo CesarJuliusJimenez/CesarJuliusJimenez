@@ -2,7 +2,7 @@
 ##  > Hello There! This is Cesar Julius D. Jimenez,
 
 <!-- About Me -->
-<font size="7"> I am a third-year college student studying computer science at New Era University. I'm interested in technology and am still exploring my skills and expertise. </font>
+<font size="7"> I am a fourth-year college student studying computer science at New Era University. I'm interested in technology and am still exploring my skills and expertise. </font>
 
 <!-- Contact -->
 ## Contact [📞]
