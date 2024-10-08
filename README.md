@@ -22,17 +22,15 @@ Contact Number: (63+)995-096-9092
 ## Certificates [📃] 
 <ul>
 <li><a href="https://www.mygreatlearning.com/certificate/JHNPYPKN">JavaScript Projects</a></li>
-IBM SkillsBuild <br>
+Great Learning <br>
 October 2024 
 <br><br>
 
-<ul>
 <li><a href="https://www.mygreatlearning.com/certificate/NMMZXEND">ReactJS Tutorial</a></li>
-IBM SkillsBuild <br>
+Great Learning <br>
 October 2024 
 <br><br>
  
-<ul>
 <li><a href="https://www.credly.com/badges/8f9fc109-2f9d-4b4a-9a4f-c6d0d9f7f4d5/public_url">Artificial Intelligence Fundamentals</a></li>
 IBM SkillsBuild <br>
 June 28, 2024 
